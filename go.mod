@@ -2,4 +2,4 @@ module github.com/euller88/passgen
 
 go 1.13
 
-require golang.org/x/crypto v0.0.0-20191227163750-53104e6ec876
+require golang.org/x/crypto v0.6.0
